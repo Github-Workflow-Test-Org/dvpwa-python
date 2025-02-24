@@ -87,7 +87,7 @@ Installing and running
       host: localhost
       port: 5432
       database: sqli
-
+.
     redis:
       host: localhost
       port: 6379
